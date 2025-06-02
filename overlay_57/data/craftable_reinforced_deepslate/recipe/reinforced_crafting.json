@@ -1,10 +1,10 @@
 {
   "result": {
     "id": "minecraft:reinforced_deepslate",
-    "count": 2
+    "count": 6
   },
   "type": "crafting_shaped",
-  "pattern": ["B B", "BDB", "B B"],
+  "pattern": ["BDB", "BDB", "BDB"],
   "key": {
     "B": "minecraft:bone",
     "D": "minecraft:deepslate"
