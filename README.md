@@ -8,7 +8,7 @@ Reinforced Deepslate is a rare, blast-resistant block that’s naturally unobtai
 
 With this datapack, you can now craft it legitimately in survival using the recipe below:
 ## 🧪 Crafting Recipe
-![Picture of crafting recipe](https://i.imgur.com/lcN7DWQ.png)
+![Picture of crafting recipe](https://i.imgur.com/KOYmL54.png)
 
 ## 🛠 Installation
 1. Download the latest release from the Releases section.
